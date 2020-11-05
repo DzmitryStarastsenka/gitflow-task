@@ -5,3 +5,13 @@
 	- Weight: 199 g.
 	- Display: 6.53 inch IPS display with 1080 x 2340 resolution.
 	- Camera: quad (64 MP + 8 MP + 2 MP + 2 MP)
+4. Photos: 
+
+	##Xiaomi Redmi Note 8 Pro front image:
+
+	![Xiaomi Redmi Note 8 Pro Front image](https://4xiaomi.ru/wp-content/uploads/2019/09/xiaomi-redmi-note-8-pro-front.jpg)
+
+	##Xiaomi Redmi Note 8 Pro Front image:
+
+	![Xiaomi Redmi Note 8 Pro back image](https://4xiaomi.ru/wp-content/uploads/2019/09/xiaomi-redmi-note-8-pro-back.jpg)
+
